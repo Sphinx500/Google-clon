@@ -88,6 +88,24 @@ main .main-input-container:hover{
     border-color: #dfe1e500;
 }
 
+main .main-input .search-icon{
+    background-image: url("https://cdn0.iconfinder.com/data/icons/forgen-ui-basic/48/search-512.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+main .main-input .micro-icon{
+    background-image: url("https://th.bing.com/th/id/OIP.HCs6g1wb53oM60M3l0GDTwHaHa?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 19px;
+    height: 19px;
+    cursor: pointer;
+}
+
 main .main-buttons{
     width: 530px;
     margin: 0 auto;
